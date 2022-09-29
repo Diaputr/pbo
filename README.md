@@ -3,8 +3,8 @@ Semester 3 ^^
 1. Konsep PBO
 2. Class & Object
 3. Enkapsulasi
-4. Quiz 1
-5. 
+4. Relasi Kelas
+5. Quiz 1
 6. 
 7. 
 8. UTS
