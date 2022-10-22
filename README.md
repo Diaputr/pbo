@@ -5,10 +5,10 @@ Semester 3 ^^
 3. Enkapsulasi
 4. Relasi Kelas
 5. Quiz 1
-6. 
-7. 
-8. UTS
-9. 
+6. Inheritance
+7. Overloading
+8. Overriding
+9. UTS
 10. 
 11. 
 12. 
