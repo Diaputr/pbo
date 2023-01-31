@@ -9,11 +9,11 @@ Semester 3 ^^
 7. Overloading
 8. Overriding
 9. UTS
-10. 
-11. 
-12. 
+10. Abstract Class
+11. Interface
+12. Polimorfisme
 13. Quiz 2
-14. 
-15. 
-16. 
+14. GUI
+15. GUI Database
+16. Tugas Besar
 17. UAS
